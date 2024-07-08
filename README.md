@@ -1,2 +1,2 @@
 # linalg
-Linear Algebra library to learn rust
+Linear Algebra library to learn rust crate system
